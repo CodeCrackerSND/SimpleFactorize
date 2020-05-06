@@ -1,0 +1,6 @@
+Old algorithm: truly not optimized:
+
+https://www.geeksforgeeks.org/program-to-find-the-next-prime-number/
+
+https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/
+
